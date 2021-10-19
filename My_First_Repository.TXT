@@ -1,5 +1,5 @@
 Мій перший репозиторій
-echo "# LR_1" >> README.md
+echo "# LR_1-NOVYK" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
